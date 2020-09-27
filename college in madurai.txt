@@ -1,0 +1,60 @@
+1: NAME: The Madura College
+address:TirupparankunramRd,AgriniTwp,VidhyaNagar,Madurai,TamilNadu625011
+Phone No:0452 267 3354
+website:no website link
+
+2: NAME: SOURASHTRA COLLEGE
+address:VilacheryMainRd,KalaMalai,Vilachery,Madurai,TamilNadu625004
+Phone No:0452 237 1112
+website:no website link
+
+3: NAME: The American College
+address:TamilDepartmentRd,Alwarpuram,Tallakulam,TamilNadu625002
+Phone No:0452 253 0070
+website:no website link
+
+4: NAME: Sri Meenakshi Government College for Women
+address:KalpalamRd,Goripalayam,Madurai,TamilNadu625002
+Phone No:0452 253 4988
+website:no website link
+
+5: NAME: SACS MAVMM Engg College Madurai City Office
+address:17,EMarretSt,StreetNearBusStop,Nelpettai,Simmakkal,MaduraiMain,Madurai,TamilNadu625301
+Phone No:0452 255 5100
+website:no website link
+
+6: NAME: Thiagarajar College
+address:#139,140,TeppakulamWSt,KamarajarSalai,TamilNadu625009
+Phone No:0452 231 1875
+website:no website link
+
+7: NAME: anna optometry college
+address:Pasumalai,Madurai,TamilNadu625004
+Phone No:098421 13045
+website:no website link
+
+8: NAME: Boston Hotel Management & Catering College - 100% Training in Malaysia
+address:2A,SivanandhaSalai,ArappalayamCrossRd,Arappalayam,Madurai,TamilNadu625016
+Phone No:098942 30049
+website:no website link
+
+9: NAME: Thiagarajar College of Engineering
+address:Thiruparankundram,TamilNadu625015
+Phone No:0452 248 2240
+website:no website link
+
+10: NAME: Viscom Department
+address:MedicalCollege,WashburnRd,Alwarpuram,Madurai,TamilNadu625020
+Phone No:no mobile number
+website:no website link
+
+11: NAME: St. Justin's College of Education,Madurai
+address:161.KamarajarSalai,(InsideNirmalaGirl'sHr.Sec.School)Near,Teppakulam,Madurai,TamilNadu625009
+Phone No:0452 231 1012
+website:no website link
+
+12: NAME: Madurai Institute Of Social Sciences
+address:No9,AlagarKovilMainRoad,Outpost,Madurai,TamilNadu625002
+Phone No:0452 253 7997
+website:no website link
+
